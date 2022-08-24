@@ -1,0 +1,2 @@
+Features/scenariooutline.feature:10
+Features/scenariooutline2.feature:10
